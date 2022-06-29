@@ -143,7 +143,7 @@ http://103.55.144.46/hls/tlc.m3u8
 http://103.55.144.46/hls/utvaction.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/69pCK1u.png" group-title="English",71.AXN
 http://103.55.144.46/hls/axn.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/euauPCp.png" group-title="English",72.BBC Earth
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="English",72.BBC Earth
 http://103.55.144.46/hls/bbcearth.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="English",73.Sony Pix HD
 http://103.55.144.46/hls/sonypixhd.m3u8
@@ -235,11 +235,11 @@ http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/10/Sky_News_Australia_logo_-_2019.svg" group-title="News",110.Astralia news
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148782299124645888/DX0zM1aO_400x400.png" group-title="News",110.Astralia news
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/BBC_World_News_2022_%28Boxed%29.svg" group-title="News",111.BBC News
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BBC_World_News_2022_%28Boxed%29.svg/240px-BBC_World_News_2022_%28Boxed%29.svg.png" group-title="News",111.BBC News
 http://103.55.144.46/hls/bbcworld.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/71/Aljazeera.svg" group-title="News",112.Al Jazeera English
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/Aljazeera.svg/120px-Aljazeera.svg.png" group-title="News",112.Al Jazeera English
 http://103.55.144.46/hls/aljazeera.m3u8
 
 
