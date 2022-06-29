@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://imgur.com/H9qgGSc.png" group-title="Bangla",01.Bangladesh Television
+#EXTINF:-1 tvg-logo="https://imgur.com/H9qgGSc.png" group-title="Bangla",01.Rimel
 http://stream.wowzacdn.com/fh3rhr3j3/23998_hhs/btv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sTZelfs.png" group-title="Bangla",02.Bangladesh Television CTG
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sTZelfs.png" group-title="Bangla",02.Bangladesh Television
 http://stream.wowzacdn.com/3Hsj5gfh/9fhejb_2kf/btv_ctg.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" group-title="Bangla",03.BTV World
 http://stream.wowzacdn.com/74urhfje3/G6K25_6d8/btv_world.m3u8
