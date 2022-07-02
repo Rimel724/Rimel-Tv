@@ -204,95 +204,95 @@ http://93.152.174.144:4000/play/skysports5/index.m3u8
 http://103.55.144.46/hls/ten.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c53SXnN.png" group-title="Sports",94.PTV Sports
 http://103.55.144.46/hls/ptv.m3u8
-#EXTINF:0 tvg-id="beINSPORTS.us" group-title="Sports",BEINSPORT
+#EXTINF:-1 tvg-id="beINSPORTS.us" group-title="Sports",BEINSPORT
 http://airmaxtv2022.online/airmaxtvbei/P5YwKR2xxxuq/1724
-#EXTINF:0 tvg-id="beINSPORTS.us" group-title="Sports",BEINSPORT
+#EXTINF:-1 tvg-id="beINSPORTS.us" group-title="Sports",BEINSPORT
 http://airmaxtv2022.online/airmaxtvbei/P5YwKR2xxxuq/1725
-#EXTINF:0 tvg-id="ext" group-title="Sports",BEINSPORT xtra1
+#EXTINF:-1 tvg-id="ext" group-title="Sports",BEINSPORT xtra1
 http://airmaxtv2022.online/airmaxtvbei/P5YwKR2xxxuq/1726
-#EXTINF:0 tvg-id="ext" group-title="Sports",BEINSPORT xtra2
+#EXTINF:-1 tvg-id="ext" group-title="Sports",BEINSPORT xtra2
 http://airmaxtv2022.online/airmaxtvbei/P5YwKR2xxxuq/1727
-#EXTINF:0 tvg-id="ext" group-title="Sports",BEIN afc 1
+#EXTINF:-1 tvg-id="ext" group-title="Sports",BEIN afc 1
 http://airmaxtv2022.online/airmaxtvbei/P5YwKR2xxxuq/1728
-#EXTINF:0 tvg-id="ext" group-title="Sports",BEIN afc 2
+#EXTINF:-1 tvg-id="ext" group-title="Sports",BEIN afc 2
 http://airmaxtv2022.online/airmaxtvbei/P5YwKR2xxxuq/1729
-#EXTINF:0 tvg-id="ext" group-title="Sports",BEIN afc 3
+#EXTINF:-1 tvg-id="ext" group-title="Sports",BEIN afc 3
 http://airmaxtv2022.online/airmaxtvbei/P5YwKR2xxxuq/1730
-#EXTINF:0 tvg-id="ext" group-title="Sports",BEINSPORT 1 PREMIUM sd
+#EXTINF:-1 tvg-id="ext" group-title="Sports",BEINSPORT 1 PREMIUM sd
 http://airmaxtv2022.online/airmaxtvbei/P5YwKR2xxxuq/1731
-#EXTINF:0 tvg-id="ext" group-title="Sports",BEINSPORT 2 PREMIUM sd
+#EXTINF:-1 tvg-id="ext" group-title="Sports",BEINSPORT 2 PREMIUM sd
 http://airmaxtv2022.online/airmaxtvbei/P5YwKR2xxxuq/1732
-#EXTINF:0 tvg-id="ext" group-title="Sports",BEINSPORT 3 PREMIUM sd
+#EXTINF:-1 tvg-id="ext" group-title="Sports",BEINSPORT 3 PREMIUM sd
 http://airmaxtv2022.online/airmaxtvbei/P5YwKR2xxxuq/1733
-#EXTINF:0 tvg-id="bein2hd.jsc" group-title="Sports",BEINSPORT sd 2
+#EXTINF:-1 tvg-id="bein2hd.jsc" group-title="Sports",BEINSPORT sd 2
 http://airmaxtv2022.online/airmaxtvbei/P5YwKR2xxxuq/1734
-#EXTINF:0 tvg-id="ext" group-title="Sports",BEINSPORT sd 5
+#EXTINF:-1 tvg-id="ext" group-title="Sports",BEINSPORT sd 5
 http://airmaxtv2022.online/airmaxtvbei/P5YwKR2xxxuq/1735
-#EXTINF:0 tvg-id="ext" group-title="Sports",BEINSPORT sd 6
+#EXTINF:-1 tvg-id="ext" group-title="Sports",BEINSPORT sd 6
 http://airmaxtv2022.online/airmaxtvbei/P5YwKR2xxxuq/1736
-#EXTINF:0 tvg-id="ext" group-title="Sports",BEINSPORT 1 PREMIUM low
+#EXTINF:-1 tvg-id="ext" group-title="Sports",BEINSPORT 1 PREMIUM low
 http://airmaxtv2022.online/airmaxtvbei/P5YwKR2xxxuq/1737
-#EXTINF:0 tvg-id="ext" group-title="Sports",BEINSPORT 2 PREMIUM low
+#EXTINF:-1 tvg-id="ext" group-title="Sports",BEINSPORT 2 PREMIUM low
 http://airmaxtv2022.online/airmaxtvbei/P5YwKR2xxxuq/1738
-#EXTINF:0 tvg-id="ext" group-title="Sports",BEINSPORT 3 PREMIUM low
+#EXTINF:-1 tvg-id="ext" group-title="Sports",BEINSPORT 3 PREMIUM low
 http://airmaxtv2022.online/airmaxtvbei/P5YwKR2xxxuq/1739
-#EXTINF:0 tvg-id="ext" group-title="Sports",BEINSPORT LOW 1
+#EXTINF:-1 tvg-id="ext" group-title="Sports",BEINSPORT LOW 1
 http://airmaxtv2022.online/airmaxtvbei/P5YwKR2xxxuq/1740
-#EXTINF:0 tvg-id="ext" group-title="Sports",BEINSPORT LOW 2
+#EXTINF:-1 tvg-id="ext" group-title="Sports",BEINSPORT LOW 2
 http://airmaxtv2022.online/airmaxtvbei/P5YwKR2xxxuq/1741
-#EXTINF:0 tvg-id="ext" group-title="Sports",BEINSPORT LOW 3
+#EXTINF:-1 tvg-id="ext" group-title="Sports",BEINSPORT LOW 3
 http://airmaxtv2022.online/airmaxtvbei/P5YwKR2xxxuq/1742
-#EXTINF:0 tvg-id="ext" group-title="Sports",BEINSPORT LOW 4
+#EXTINF:-1 tvg-id="ext" group-title="Sports",BEINSPORT LOW 4
 http://airmaxtv2022.online/airmaxtvbei/P5YwKR2xxxuq/1743
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEINSPORT LOW 5
+#EXTINF:-1 tvg-id="ext" group-title="Channels",BEINSPORT LOW 5
 http://airmaxtv2022.online/airmaxtvbei/P5YwKR2xxxuq/1744
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEINSPORT 1 PREMIUM
+#EXTINF:-1 tvg-id="ext" group-title="Channels",BEINSPORT 1 PREMIUM
 http://airmaxtv2022.online/airmaxtvbei/P5YwKR2xxxuq/1745
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEINSPORT 2 PREMIUM
+#EXTINF:-1 tvg-id="ext" group-title="Channels",BEINSPORT 2 PREMIUM
 http://airmaxtv2022.online/airmaxtvbei/P5YwKR2xxxuq/1746
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEINSPORT 3 PREMIUM
+#EXTINF:-1 tvg-id="ext" group-title="Channels",BEINSPORT 3 PREMIUM
 http://airmaxtv2022.online/airmaxtvbei/P5YwKR2xxxuq/1747
-#EXTINF:0 tvg-id="beINSport1.fr" group-title="Channels",BEINSPORT 1
+#EXTINF:-1 tvg-id="beINSport1.fr" group-title="Channels",BEINSPORT 1
 http://airmaxtv2022.online/airmaxtvbei/P5YwKR2xxxuq/1748
-#EXTINF:0 tvg-id="bein2hd.jsc" group-title="Channels",BEINSPORT 2
+#EXTINF:-1 tvg-id="bein2hd.jsc" group-title="Channels",BEINSPORT 2
 http://airmaxtv2022.online/airmaxtvbei/P5YwKR2xxxuq/1749
-#EXTINF:0 tvg-id="beINSport3.fr" group-title="Channels",BEINSPORT 3
+#EXTINF:-1 tvg-id="beINSport3.fr" group-title="Channels",BEINSPORT 3
 http://airmaxtv2022.online/airmaxtvbei/P5YwKR2xxxuq/1750
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEINSPORT 4
+#EXTINF:-1 tvg-id="ext" group-title="Channels",BEINSPORT 4
 http://airmaxtv2022.online/airmaxtvbei/P5YwKR2xxxuq/1751
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEINSPORT 5
+#EXTINF:-1 tvg-id="ext" group-title="Channels",BEINSPORT 5
 http://airmaxtv2022.online/airmaxtvbei/P5YwKR2xxxuq/1752
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEINSPORT 6
+#EXTINF:-1 tvg-id="ext" group-title="Channels",BEINSPORT 6
 http://airmaxtv2022.online/airmaxtvbei/P5YwKR2xxxuq/1753
-#EXTINF:0 tvg-id="bein7hd.jsc" group-title="Channels",BEINSPORT 7
+#EXTINF:-1 tvg-id="bein7hd.jsc" group-title="Channels",BEINSPORT 7
 http://airmaxtv2022.online/airmaxtvbei/P5YwKR2xxxuq/1754
-#EXTINF:0 tvg-id="ext" group-title="Channels",SSC SPORT 1
+#EXTINF:-1 tvg-id="ext" group-title="Channels",SSC SPORT 1
 http://airmaxtv2022.online/airmaxtv/8EKvPYMDdA2W/1841
-#EXTINF:0 tvg-id="ext" group-title="Channels",SSC SPORT 1
+#EXTINF:-1 tvg-id="ext" group-title="Channels",SSC SPORT 1
 http://airmaxtv2022.online/airmaxtv/8EKvPYMDdA2W/1834
-#EXTINF:0 tvg-id="ext" group-title="Channels",SSC SPORT 2
+#EXTINF:-1 tvg-id="ext" group-title="Channels",SSC SPORT 2
 http://airmaxtv2022.online/airmaxtv/8EKvPYMDdA2W/1842
-#EXTINF:0 tvg-id="ext" group-title="Channels",SSC SPORT 2
+#EXTINF:-1 tvg-id="ext" group-title="Channels",SSC SPORT 2
 http://airmaxtv2022.online/airmaxtv/8EKvPYMDdA2W/1835
-#EXTINF:0 tvg-id="ext" group-title="Channels",SSC SPORT 3
+#EXTINF:-1 tvg-id="ext" group-title="Channels",SSC SPORT 3
 http://airmaxtv2022.online/airmaxtv/8EKvPYMDdA2W/1843
-#EXTINF:0 tvg-id="ext" group-title="Channels",SSC SPORT 3
+#EXTINF:-1 tvg-id="ext" group-title="Channels",SSC SPORT 3
 http://airmaxtv2022.online/airmaxtv/8EKvPYMDdA2W/1836
-#EXTINF:0 tvg-id="ext" group-title="Channels",SSC SPORT 4
+#EXTINF:-1 tvg-id="ext" group-title="Channels",SSC SPORT 4
 http://airmaxtv2022.online/airmaxtv/8EKvPYMDdA2W/1844
-#EXTINF:0 tvg-id="ext" group-title="Channels",SSC SPORT 4
+#EXTINF:-1 tvg-id="ext" group-title="Channels",SSC SPORT 4
 http://airmaxtv2022.online/airmaxtv/8EKvPYMDdA2W/1837
-#EXTINF:0 tvg-id="ext" group-title="Channels",SSC SPORT 5
+#EXTINF:-1 tvg-id="ext" group-title="Channels",SSC SPORT 5
 http://airmaxtv2022.online/airmaxtv/8EKvPYMDdA2W/1845
-#EXTINF:0 tvg-id="ext" group-title="Channels",SSC SPORT 5
+#EXTINF:-1 tvg-id="ext" group-title="Channels",SSC SPORT 5
 http://airmaxtv2022.online/airmaxtv/8EKvPYMDdA2W/1838
-#EXTINF:0 tvg-id="ext" group-title="Channels",SSC SPORT 6
+#EXTINF:-1 tvg-id="ext" group-title="Channels",SSC SPORT 6
 http://airmaxtv2022.online/airmaxtv/8EKvPYMDdA2W/1846
-#EXTINF:0 tvg-id="ext" group-title="Channels",SSC SPORT 6
+#EXTINF:-1 tvg-id="ext" group-title="Channels",SSC SPORT 6
 http://airmaxtv2022.online/airmaxtv/8EKvPYMDdA2W/1839
-#EXTINF:0 tvg-id="ext" group-title="Channels",SSC SPORT 7
+#EXTINF:-1 tvg-id="ext" group-title="Channels",SSC SPORT 7
 http://airmaxtv2022.online/airmaxtv/8EKvPYMDdA2W/1847
-#EXTINF:0 tvg-id="ext" group-title="Channels",SSC SPORT 7
+#EXTINF:-1 tvg-id="ext" group-title="Channels",SSC SPORT 7
 http://airmaxtv2022.online/airmaxtv/8EKvPYMDdA2W/1840
 
 
