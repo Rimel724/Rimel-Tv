@@ -11,7 +11,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 http://103.55.144.46/hls/channeli.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kFqOMtx.png" group-title="Bangla",08.Ekusey TV
-http://bciptv.net:8082/Ekushey-TV/tracks-v1a1/mono.m3u8?token=989d62998d1e07ef0492bdffe44ac54a75cef7ae-592fb3455b639cac5e44ab6eb324cd42-1656538506-1656527706
+http://210.4.72.204:80/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="Bangla",09.NTV
 https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
